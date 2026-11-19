@@ -11,6 +11,7 @@ Free plugins for ResourceSpace 11 – theming, plugin management, permissions, c
 | Permission Group Manager | <https://s29829.github.io/permission_group_manager/> | [s29829/permission_group_manager](https://github.com/s29829/permission_group_manager) |
 | Collection Access Manager | <https://s29829.github.io/collection_access_manager/> | [s29829/collection_access_manager](https://github.com/s29829/collection_access_manager) |
 | Security Guard | <https://s29829.github.io/security_guard/> | [s29829/security_guard](https://github.com/s29829/security_guard) |
+| System Monitor | <https://s29829.github.io/system_monitor/> | [s29829/system_monitor](https://github.com/s29829/system_monitor) |
 
 This repository is generated – the plugins are released in their own repositories.
 
